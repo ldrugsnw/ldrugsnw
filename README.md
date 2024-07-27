@@ -30,6 +30,12 @@ Here are some ideas to get you started:
 ## - ⚡ Fun fact: ...
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ldrugsnw)](https://solved.ac/ldrugsnw/)
 
+## - 📫 How to reach me: ...
+<a href="https://instagram.com/ldrugsnw">
+    <img 
+        src="http://img.shields.io/badge/-Instagram-pink?style=flat&logo=Instagram&link=https://instagram.com/ldrugsnw/"
+        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+</a>
 
-
+##
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fldrugsnw&count_bg=%23008BFF&title_bg=%23FF0000&icon=iconify.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
