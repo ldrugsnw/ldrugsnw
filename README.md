@@ -1,4 +1,4 @@
-## Hi there!! I'm ldrugsnw👋
+## I'm ldrugsnw👋🇰🇷
 
 ### I'm interested in AI and backend.
 <!--
