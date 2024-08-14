@@ -31,7 +31,8 @@ Here are some ideas to get you started:
 |Period|Description|
 |---|---|
 |2024.06 ~ |인하대학교 프로그래밍 동아리 IGRUS 기술부 부원|
-## - ⚡ Fun fact: ...
+
+## 🧩 Algorithm Problem Solving
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ldrugsnw)](https://solved.ac/ldrugsnw/)
 
 ## - 📫 How to reach me: ...
