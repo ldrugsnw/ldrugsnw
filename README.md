@@ -1,5 +1,6 @@
 ## Hi there!! I'm ldrugsnw👋
 
+### I'm interested in AI and backend.
 <!--
 **ldrugsnw/ldrugsnw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## - 🌱 I’m currently learning ...
+## 🌱 Learning
 
 ![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
 ![SPRING](https://img.shields.io/badge/Spring-6DB33F.svg?&style=for-the-badge&logo=Spring&logoColor=white)
