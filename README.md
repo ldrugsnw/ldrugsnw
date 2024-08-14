@@ -27,6 +27,10 @@ Here are some ideas to get you started:
 ![Jupyter](https://img.shields.io/badge/jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=white)
 
+## 🧭 Experience
+|Period|Description|
+|---|---|
+|2024.06 ~ |인하대학교 프로그래밍 동아리 IGRUS 기술부 부원|
 ## - ⚡ Fun fact: ...
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ldrugsnw)](https://solved.ac/ldrugsnw/)
 
