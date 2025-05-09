@@ -34,8 +34,6 @@ Here are some ideas to get you started:
 ## 🧩 Algorithm Problem Solving
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ldrugsnw)](https://solved.ac/ldrugsnw/)
 
-![kaggle badge](https://url.com/?user={ldrugsnw})
-
 ## - 📫 How to reach me: ...
 <a href="https://instagram.com/ldrugsnw">
     <img 
