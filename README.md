@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 ## 👋 About Me
 
 - Undergraduate Computer Science student at Inha University.
+- Interests: LLMs & Retrieval, ML, data engineering and RecSyS.
 
 ## 🚀 Tech Stack & Tools
 
@@ -54,8 +55,11 @@ Here are some ideas to get you started:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ldrugsnw&show_icons=true&theme=tokyonight)
 
 
+## 📫 Contact
 
-## - 📫 How to reach me: ...
+Email: sonjhshin@gmail.com
+
+LinkedIn: [/in/yourhandle](https://www.linkedin.com/in/%EC%A4%80%ED%98%81-%EC%8B%A0-53a837320/)
 <a href="https://instagram.com/ldrugsnw">
     <img 
         src="http://img.shields.io/badge/-Instagram-pink?style=flat&logo=Instagram&link=https://instagram.com/ldrugsnw/"
