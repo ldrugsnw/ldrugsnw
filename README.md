@@ -1,4 +1,4 @@
-## I'm ldrugsnw👋🇰🇷
+## Hi, I'm Junhyuk Shin (신준혁)👋🇰🇷
 
 ### I'm interested in AI!
 <!--
@@ -15,6 +15,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## 👋 About Me
+
+- Undergraduate Computer Science student at Inha University.
+
 ## 🚀 Tech Stack & Tools
 
 ![C++](https://img.shields.io/badge/C++-00599C.svg?&style=for-the-badge&logo=cplusplus&logoColor=white)
