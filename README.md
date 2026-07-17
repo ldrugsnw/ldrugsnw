@@ -1,6 +1,5 @@
 ## Hi, I'm Junhyuk Shin (신준혁)👋🇰🇷
 
-### I'm interested in AI!
 <!--
 **ldrugsnw/ldrugsnw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
