@@ -46,7 +46,6 @@
 
 Email: sonjhshin@gmail.com
 
-LinkedIn: [/in/yourhandle](https://www.linkedin.com/in/%EC%A4%80%ED%98%81-%EC%8B%A0-53a837320/)
 <a href="https://instagram.com/ldrugsnw">
     <img 
         src="http://img.shields.io/badge/-Instagram-pink?style=flat&logo=Instagram&link=https://instagram.com/ldrugsnw/"
