@@ -34,10 +34,6 @@
 | 🖼️ **[Image Compressor](https://github.com/ldrugsnw/image_compressor)** | Compress images toward a target file size | FastAPI · React · Pillow |
 | 📰 **[Stock News Analyzer](https://github.com/ldrugsnw/stock_news_analyze)** | Analyze financial news sentiment and importance using AI | Python · Gemini · RSS |
 | 🧠 **[From Scratch LLM](https://github.com/ldrugsnw/from_scratch_LLM)** | Learning language models by implementing core concepts | Python · PyTorch |
-| 📄 **[MyArxiv](https://github.com/ldrugsnw/myarXiv)** | Search and explore arXiv papers through a simple web interface | FastAPI · React · TypeScript |
-| 🖼️ **[Image Compressor](https://github.com/ldrugsnw/image_compressor)** | Compress images toward a target file size | FastAPI · React · Pillow |
-| 📰 **[Stock News Analyzer](https://github.com/ldrugsnw/stock_news_analyze)** | Analyze financial news sentiment and importance using AI | Python · Gemini · RSS |
-| 🧠 **[From Scratch LLM](https://github.com/ldrugsnw/from_scratch_LLM)** | Learning language models by implementing core concepts | Python · PyTorch |
 
 <br/>
 
