@@ -1,52 +1,93 @@
-## Hi, I'm Junhyuk Shin (신준혁)👋🇰🇷
+<h1 align="center">Hi, I'm Junhyuk Shin 👋</h1>
 
+<p align="center">
+  <b>Computer Science @ Inha University</b>
+  <br/>
+  AI Engineer in Progress
+</p>
 
-## 👋 About Me
+<p align="center">
+  AI Engineering · LLMs · Backend
+</p>
 
-> Undergraduate Computer Science student at Inha University.
-> AI Engineer in Progress
+---
 
+### 👨‍💻 About Me
 
+- 🎓 Undergraduate Computer Science student at **Inha University**
+- 🤖 Interested in **AI Engineering, LLMs, and Backend Development**
+- 🧠 Learning AI through both **theory and implementation**
+- 🛠️ Building small projects to understand how things actually work
 
-## 🚀 Tech Stack & Tools
+<br/>
 
-![C++](https://img.shields.io/badge/C++-00599C.svg?&style=for-the-badge&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=jupyter&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C.svg?&style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00.svg?&style=for-the-badge&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000.svg?&style=for-the-badge&logo=keras&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E.svg?&style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458.svg?&style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243.svg?&style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C.svg?&style=for-the-badge&logo=matplotlib&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-3776AB.svg?&style=for-the-badge&logo=seaborn&logoColor=white)
+### 🚀 Featured Projects
 
+| Project | Description | Stack |
+|---|---|---|
+| 📄 **[MyArxiv](https://github.com/ldrugsnw/myarXiv)** | Search and explore arXiv papers through a simple web interface | FastAPI · React · TypeScript |
+| 🖼️ **[Image Compressor](https://github.com/ldrugsnw/image_compressor)** | Compress images toward a target file size | FastAPI · React · Pillow |
+| 📰 **[Stock News Analyzer](https://github.com/ldrugsnw/stock_news_analyze)** | Analyze financial news sentiment and importance using AI | Python · Gemini · RSS |
+| 🧠 **[From Scratch LLM](https://github.com/ldrugsnw/from_scratch_LLM)** | Learning language models by implementing core concepts | Python · PyTorch |
 
+<br/>
 
+### 🛠️ Tech Stack
 
-## 🧭 Experience
-|Period|Description|
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+
+**AI / ML**
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+
+**Backend / Web**
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+
+**Tools**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+<br/>
+
+### 📚 Currently Learning
+
+`Deep Learning` · `AI Engineering` · `Computer Systems` · `Operating Systems` · `Computer Networks`
+
+<br/>
+
+### 🌱 Contributions
+
+![](./profile-3d-contrib/profile-night-green.svg)
+
+<br/>
+
+### 🧭 Experience
+
+| Period | Experience |
 |---|---|
-|2024.06 ~ 2025.06 |인하대학교 프로그래밍 동아리 IGRUS 기술부 부원|
-|2024.08 ~ 2024.12 |인하대학교 프로그래밍 동아리 IGRUS 부회장|
-|2024.12 ~ 2025.06 |인하대학교 프로그래밍 동아리 IGRUS 회장|
-|2025.11 ~ 2027.08 |대한민국 공군 복무|
+| 2024.06 – 2025.06 | Technical Team, **IGRUS** |
+| 2024.08 – 2024.12 | Vice President, **IGRUS** |
+| 2024.12 – 2025.06 | President, **IGRUS** |
+| 2025.11 – 2027.08 | Republic of Korea Air Force |
 
+<br/>
 
+### 🧩 Algorithm
 
-## 🧩 Algorithm Problem Solving
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ldrugsnw)](https://solved.ac/ldrugsnw/)
 
+<br/>
 
+### 📫 Contact
 
-## 📫 Contact
-
-Email: sonjhshin@gmail.com
-
-<a href="https://instagram.com/ldrugsnw">
-    <img 
-        src="http://img.shields.io/badge/-Instagram-pink?style=flat&logo=Instagram&link=https://instagram.com/ldrugsnw/"
-        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-</a>
+**Email** · sonjhshin@gmail.com  
+**Instagram** · @ldrugsnw
