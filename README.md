@@ -25,10 +25,6 @@
 
 | Project | Description | Stack |
 |---|---|---|
-### 🚀 Featured Projects
-
-| Project | Description | Stack |
-|---|---|---|
 | 🪖 **[Airforce Calendar](https://github.com/ldrugsnw/airforce_calandar)** | A mobile-friendly leave management service for ROK Air Force personnel | React · TypeScript |
 | 📄 **[MyArxiv](https://github.com/ldrugsnw/myarXiv)** | Search and explore arXiv papers through a simple web interface | FastAPI · React · TypeScript |
 | 🖼️ **[Image Compressor](https://github.com/ldrugsnw/image_compressor)** | Compress images toward a target file size | FastAPI · React · Pillow |
