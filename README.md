@@ -80,6 +80,9 @@
 | 2024.12 – 2025.06 | President, **IGRUS** |
 | 2025.11 – 2027.08 | Republic of Korea Air Force |
 
+
+IGRUS — A multidisciplinary IT student club at Inha University with approximately 300 members.
+
 <br/>
 
 ## 🏅 Certifications
