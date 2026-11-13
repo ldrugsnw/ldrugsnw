@@ -82,6 +82,14 @@
 
 <br/>
 
+## 🏅 Certifications
+
+| Certification | Issuer | Date |
+|:---|:---|:---|
+| ADsP (데이터분석 준전문가) | K-DATA | Nov 2026 |
+
+<br/>
+
 ### 🧩 Algorithm
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ldrugsnw)](https://solved.ac/ldrugsnw/)
