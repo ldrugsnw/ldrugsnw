@@ -91,7 +91,10 @@ IGRUS — A multidisciplinary IT student club at Inha University with approximat
 |:---|:---|:---|
 | ADsP (데이터분석 준전문가) | K-DATA | Nov 2026 |
 | 프로그래밍기능사 | HRDK | Apr 2025 |
+### 📜 Certificates
 
+- ADsP (Advanced Data Analytics Semi-Professional) — 2026.11
+- SQLD (SQL Developer) — 2026.11
 <br/>
 
 ### 🧩 Algorithm
