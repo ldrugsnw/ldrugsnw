@@ -95,7 +95,7 @@ IGRUS — A multidisciplinary IT student club at Inha University with approximat
 
 ### 🧩 Algorithm
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ldrugsnw)](https://solved.ac/ldrugsnw/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dog)](https://solved.ac/dog/)
 
 <br/>
 
